@@ -19,6 +19,7 @@ A logistic regression model was trained on the preprocessed dataset to classify 
 Model Evaluation:
 
 The model’s performance was evaluated using accuracy, precision, and recall metrics to understand how well it classifies healthy and high-risk loans.
+
 **Model Tuning:**
 
 Hyperparameter tuning and model adjustments were explored to optimize performance, particularly for high-risk loan classification, where the model showed room for improvement due to class imbalance.
